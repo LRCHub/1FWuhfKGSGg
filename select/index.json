@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Umbrella（feat. lasah）",
+  "base_artist": "春野",
+  "createdAt": "2026-03-04T09:38:46.383356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Umbrella (feat. lasah)",
+      "artist": "Haruno",
+      "has_synced": true,
+      "path": "select/01_Umbrella_(feat._lasah)_Haruno.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Umbrella (feat. Chris Gunst)",
+      "artist": "Dntel",
+      "has_synced": false,
+      "path": "select/02_Umbrella_(feat._Chris_Gunst)_Dntel.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Umbrella (feat. Jay-Z)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/03_Umbrella_(feat._Jay-Z)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Umbrella (feat. Jay-Z) (Seamus Haji & Paul Emanuel Remix)",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/04_Umbrella_(feat._Jay-Z)_(Seamus_Haji_&_Paul_Emanuel_Remix)_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Umbrella Feat. Jay-Z",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/05_Umbrella_Feat._Jay-Z_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Umbrella (feat. Jay-Z)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/06_Umbrella_(feat._Jay-Z)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Umbrella (feat. 21 Savage & Young Nudy)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/07_Umbrella_(feat._21_Savage_&_Young_Nudy)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Umbrella (feat. JAY-Z) [Jody den Broeder Lush Radio Edit]",
+      "artist": "Rihanna Feat. Jay-Z",
+      "has_synced": false,
+      "path": "select/08_Umbrella_(feat._JAY-Z)_[Jody_den_Broeder_Lush_Radio_Edit]_Rihanna_Feat._Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Umbrella (feat. JAY-Z) [Jody den Broeder Destruction Radio Edit]",
+      "artist": "Rihanna Feat. Jay-Z",
+      "has_synced": false,
+      "path": "select/09_Umbrella_(feat._JAY-Z)_[Jody_den_Broeder_Destruction_Radio_Edit]_Rihanna_Feat._Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Umbrella (feat. JAY-Z) [Jody den Broeder Lush Club Remix]",
+      "artist": "Rihanna Feat. Jay-Z",
+      "has_synced": false,
+      "path": "select/10_Umbrella_(feat._JAY-Z)_[Jody_den_Broeder_Lush_Club_Remix]_Rihanna_Feat._Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Umbrella (feat. JAY-Z) [Seamus Haji & Paul Emanuel Radio Edit]",
+      "artist": "Rihanna Feat. Jay-Z",
+      "has_synced": false,
+      "path": "select/11_Umbrella_(feat._JAY-Z)_[Seamus_Haji_&_Paul_Emanuel_Radio_Edit]_Rihanna_Feat._Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Umbrella (feat. JAY-Z) [The Lindbergh Palace Dub]",
+      "artist": "Rihanna Feat. Jay-Z",
+      "has_synced": false,
+      "path": "select/12_Umbrella_(feat._JAY-Z)_[The_Lindbergh_Palace_Dub]_Rihanna_Feat._Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Umbrella (feat. Young Nudy)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/13_Umbrella_(feat._Young_Nudy)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Umbrella (feat. JAY-Z)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_Umbrella_(feat._JAY-Z)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Umbrella (feat. JAY Z) [The Lindbergh Palace]",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/15_Umbrella_(feat._JAY_Z)_[The_Lindbergh_Palace]_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Umbrella (Feat. Jay-Z) [Lindbergh Palace]",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/16_Umbrella_(Feat._Jay-Z)_[Lindbergh_Palace]_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Umbrella (Feat. Jay-Z) [Seamus Haji & Paul Emanuel]",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/17_Umbrella_(Feat._Jay-Z)_[Seamus_Haji_&_Paul_Emanuel]_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Umbrella (Feat. Jay-Z)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/18_Umbrella_(Feat._Jay-Z)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Umbrella [feat. JAY-Z]",
+      "artist": "Rihanna feat. Jay-Z",
+      "has_synced": true,
+      "path": "select/19_Umbrella_[feat._JAY-Z]_Rihanna_feat._Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Singing In the Rain / Umbrella (feat. Gwyneth Paltrow)",
+      "artist": "Cast of Glee",
+      "has_synced": true,
+      "path": "select/20_Singing_In_the_Rain___Umbrella_(feat._Gwyneth_Paltrow)_Cast_of_Glee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Umbrella",
+      "artist": "春野, lasah",
+      "has_synced": false,
+      "path": "select/pl_01_Umbrella_春野,_lasah.txt"
+    }
+  ]
+}
